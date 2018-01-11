@@ -1,0 +1,11 @@
+* {
+  background-color: pink; }
+
+@font-face {
+  font-family: 'Bellefair-Regular';
+  src: url("../fonts/Bellefair-Regular.ttf"); }
+
+* {
+  color: red;
+  font-size: 39px;
+  font-family: 'Bellefair-Regular'; }
